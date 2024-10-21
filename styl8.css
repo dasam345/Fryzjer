@@ -11,3 +11,7 @@ table {
     border: 1px solid #795548;
     text-align: center;
 }
+tr:hover {
+    background-color: sienna;
+    
+}
