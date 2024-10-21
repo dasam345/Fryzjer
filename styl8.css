@@ -1,0 +1,9 @@
+.box {
+    display: flex;
+}
+.col-9 {
+    width: 72%;
+}
+.col-3 {
+    width: 400px;
+}
